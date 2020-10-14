@@ -856,7 +856,7 @@ function Par(elem) {
   elem[15].children[1].innerHTML  +
   elem[16].children[1].innerHTML  +
   elem[17].children[1].innerHTML +
-  elem[18].children[1].innerHTML +
+  elem[18].children[1].innerHTML ;
   elem[19].children[1].innerHTML = Par; 
 
 }
@@ -880,7 +880,7 @@ function totalScore(elem) {
   elem[15].children[2].innerHTML  +
   elem[16].children[2].innerHTML  +
   elem[17].children[2].innerHTML +
-  elem[18].children[2].innerHTML +
+  elem[18].children[2].innerHTML ;
   elem[19].children[2].innerHTML = totalScore; 
 
 elem[19].children[3]
@@ -903,5 +903,5 @@ function Par(elem) {
   elem[15].children[3].innerHTML  +
   elem[16].children[3].innerHTML  +
   elem[17].children[3].innerHTML +
-  elem[18].children[3].innerHTML +
+  elem[18].children[3].innerHTML ;
   elem[19].children[3].innerHTML = overScore; 
